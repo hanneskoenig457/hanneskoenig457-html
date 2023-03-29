@@ -10,7 +10,7 @@
         {
             "src": "https://calcpad.eu/images/Calcpad.png",
             "type": "image/png",
-            "sizes": "256x256"
+            "sizes": "2048x2048"
         }
     ]
 }
