@@ -1,0 +1,16 @@
+{
+    "name": "HK457👑",
+    "short_name": "HK457👑",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#820909",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/images/icons/icon-HK457.png",
+            "type": "image/png",
+            "sizes": "2048x2048"
+        }
+    ]
+}

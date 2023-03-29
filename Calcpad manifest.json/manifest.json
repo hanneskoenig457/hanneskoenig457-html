@@ -1,0 +1,16 @@
+{
+    "name": "Calcpad - IDE",
+    "short_name": "Calcpad - IDE",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#820909",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "https://calcpad.eu/images/Calcpad.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        }
+    ]
+}
